@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dependency-search/dependency-search.iml" filepath="$PROJECT_DIR$/dependency-search/dependency-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ioc-container-overview/ioc-container-overview.iml" filepath="$PROJECT_DIR$/ioc-container-overview/ioc-container-overview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ioc-container-overview-and-spring-bean-practise/ioc-container-overview-and-spring-bean-practise.iml" filepath="$PROJECT_DIR$/ioc-container-overview-and-spring-bean-practise/ioc-container-overview-and-spring-bean-practise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/mymaventest.iml" filepath="$PROJECT_DIR$/.idea/mymaventest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-bean/spring-bean.iml" filepath="$PROJECT_DIR$/spring-bean/spring-bean.iml" />
+    </modules>
+  </component>
+</project>
