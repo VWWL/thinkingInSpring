@@ -1,4 +1,5 @@
 package com.geekbang.thinking.in.dependency;
 
-public class FirstTest {
+public class FirstTest {    
+    public aa {}                                                                                                                                            
 }
