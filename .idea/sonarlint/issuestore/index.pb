@@ -5,8 +5,6 @@ I
 dependency-search/pom.xml,b/c/bc2e458d5e6de161c5eeb1daca8c179ceedf4fbd
 7
 pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
-W
-'dependency-search/dependency-search.iml,d/6/d6a46eec300b5d5b2b3507aa419a55fad189c4e7
 ¿
 èioc-container-overview/src/main/java/com/geekbang/thinking/in/spring/ioc/overview/container/AnnotationApplicationContextAsIoCContainerDemo.java,0/f/0f0f3cfc68ec7e0cc09f03623b9bafe10b90954a
 Æ
@@ -31,8 +29,6 @@ Pioc-container-overview/src/main/resources/META-INF/dependency-lookup-context.xm
 Oioc-container-overview/target/classes/META-INF/dependency-injection-context.xml,3/c/3cb553b7d6ef171a6cc379ae11484338b3aff155
 |
 Lioc-container-overview/target/classes/META-INF/dependency-lookup-context.xml,1/8/187335f9e1a7ba992ba8ce9471c3ba155ac09970
-a
-1ioc-container-overview/ioc-container-overview.iml,5/e/5ed6f45f6cda94688d7ee0e6ff17b3bba87f4ad8
 N
 ioc-container-overview/pom.xml,2/b/2bec42655b279861b0748b1f666d015c240a910b
 æ
@@ -73,8 +69,6 @@ cioc-container-overview-and-spring-bean-practise/target/classes/META-INF/bean-de
 eioc-container-overview-and-spring-bean-practise/target/classes/META-INF/bean-instantiation-create.xml,b/3/b3288420cf561d0054a55fc974540bdc6d11e7b5
 ù
 mioc-container-overview-and-spring-bean-practise/target/classes/META-INF/special-bean-instantiation-create.xml,3/b/3b4b92ef33c9b82c3d408da9dfe53d86648b67dc
-ì
-cioc-container-overview-and-spring-bean-practise/ioc-container-overview-and-spring-bean-practise.iml,b/8/b81f8674ebbc562b106065f290cd45962973c3a8
 g
 7ioc-container-overview-and-spring-bean-practise/pom.xml,0/9/0984a0f74be941a3596303514924d2ef6b477c28
 \
@@ -97,8 +91,6 @@ x
 H.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_2_RELEASE.xml,8/6/866eaa3ff687bd92806e5fac6679569682343091
 v
 F.idea/libraries/Maven__org_springframework_spring_tx_5_2_2_RELEASE.xml,1/f/1f55943ec141e6a8507024d08772346d03beea77
-?
-mymaventest.iml,1/0/10a02f345ed316a1f3b9eca9b3dcb67c3b3ee39a
 í
 bspring-bean/src/main/java/org/geekbang/thinking/in/spring/bean/definition/factory/UserFactory.java,f/8/f89d8d28bc6fc0307800466f94a42fe5c2ba2f61
 ñ
@@ -133,8 +125,6 @@ y
 Ispring-bean/target/classes/META-INF/special-bean-instantiation-create.xml,d/e/de4795c0f5f48e133e8dafab81d6661f0825f214
 C
 spring-bean/pom.xml,9/9/99d1bd0f16abbc8b445997acc8e117fd0c4d5cac
-K
-spring-bean/spring-bean.iml,8/d/8d3c27d8a2f9290ee3d83c54567155182422bde6
 ô
 ispring-bean/src/main/java/org/geekbang/thinking/in/spring/bean/definition/factory/DefaultUserFactory.java,e/3/e3ba2c6257aa82efa38a8bc20fe50fd01524c2d2
 å
