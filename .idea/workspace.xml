@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8b0dd8a-eeab-49dd-bab2-395aca22fec1" name="Default Changelist" comment="">
+    <list default="true" id="d8b0dd8a-eeab-49dd-bab2-395aca22fec1" name="Default Changelist" comment="第一次提交">
+      <change afterPath="$PROJECT_DIR$/dependency-search/src/main/java/org/geekbang/thinking/in/spring/dependency/lookup/ObjectProviderDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dependency-search/src/main/java/com/geekbang/thinking/in/dependency/FirstTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mymaventest.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +33,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SWAP_SIDES_IN_COMPARE_BRANCHES" value="true" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -94,7 +94,7 @@
       <recent name="com.itheima.thinking.in.spring.ioc.overview.dependency.injection" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AnnotationBeanDefinitionDemo">
+  <component name="RunManager" selected="Application.ObjectProviderDemo">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -116,8 +116,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BeanGarbageCollectionDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.geekbang.thinking.in.spring.bean.definition.BeanGarbageCollectionDemo" />
+    <configuration name="BeanInstantiationDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.geekbang.thinking.in.spring.bean.definition.BeanInstantiationDemo" />
       <module name="ioc-container-overview-and-spring-bean-practise" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -130,13 +130,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BeanInstantiationDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.geekbang.thinking.in.spring.bean.definition.BeanInstantiationDemo" />
-      <module name="ioc-container-overview-and-spring-bean-practise" />
+    <configuration name="ObjectProviderDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.geekbang.thinking.in.spring.dependency.lookup.ObjectProviderDemo" />
+      <module name="dependency-search" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.geekbang.thinking.in.spring.bean.definition.*" />
+          <option name="PATTERN" value="org.geekbang.thinking.in.spring.dependency.lookup.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,6 +174,17 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -311,11 +322,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ObjectProviderDemo" />
         <item itemvalue="Application.AnnotationBeanDefinitionDemo" />
         <item itemvalue="Application.SpecialBeanInstantiationDemo" />
         <item itemvalue="Application.SingletonBeanRegisterationDemo" />
         <item itemvalue="Application.BeanInstantiationDemo" />
-        <item itemvalue="Application.BeanGarbageCollectionDemo (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -368,7 +379,8 @@
       <workItem from="1608649093077" duration="28000" />
       <workItem from="1608649494024" duration="33000" />
       <workItem from="1608684540071" duration="130000" />
-      <workItem from="1609580090721" duration="414000" />
+      <workItem from="1609580090721" duration="1958000" />
+      <workItem from="1609589118496" duration="2263000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1608552028390</created>
@@ -398,7 +410,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608684592726</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="第一次提交">
+      <created>1609580614525</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1609580614525</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

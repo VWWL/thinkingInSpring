@@ -131,5 +131,8 @@ ispring-bean/src/main/java/org/geekbang/thinking/in/spring/bean/definition/facto
 \spring-bean/src/main/java/org/geekbang/thinking/in/spring/bean/definition/BeanAliasDemo.java,b/6/b611cc30585b6f0161a6c738d360c17c4bd8606d
 ”
 dspring-bean/src/main/java/org/geekbang/thinking/in/spring/bean/definition/BeanInstantiationDemo.java,e/4/e4d3d83e37f81902e6ef236eb954fc80084af1dc
-‚
-Rdependency-search/src/main/java/com/geekbang/thinking/in/dependency/FirstTest.java,0/6/06033a9890135bb44324f425d169af21d33f4187
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
