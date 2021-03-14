@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8b0dd8a-eeab-49dd-bab2-395aca22fec1" name="Default Changelist" comment="第一次提交">
-      <change afterPath="$PROJECT_DIR$/dependency-search/src/main/java/org/geekbang/thinking/in/spring/dependency/lookup/ObjectProviderDemo.java" afterDir="false" />
+    <list default="true" id="d8b0dd8a-eeab-49dd-bab2-395aca22fec1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -72,13 +72,16 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.34827587" />
     <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
   </component>
   <component name="ReaderModeSettings">
     <option name="enabled" value="false" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -380,7 +383,10 @@
       <workItem from="1608649494024" duration="33000" />
       <workItem from="1608684540071" duration="130000" />
       <workItem from="1609580090721" duration="1958000" />
-      <workItem from="1609589118496" duration="2263000" />
+      <workItem from="1609589118496" duration="2317000" />
+      <workItem from="1611027633413" duration="104000" />
+      <workItem from="1615692110738" duration="41000" />
+      <workItem from="1615692167470" duration="229000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1608552028390</created>
@@ -417,7 +423,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609580614525</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="my2th">
+      <created>1609591441736</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1609591441736</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -428,7 +441,8 @@
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
     <MESSAGE value="第一次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
+    <MESSAGE value="my2th" />
+    <option name="LAST_COMMIT_MESSAGE" value="my2th" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

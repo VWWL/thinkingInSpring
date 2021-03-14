@@ -136,3 +136,5 @@ dspring-bean/src/main/java/org/geekbang/thinking/in/spring/bean/definition/BeanI
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
 9
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+™
+idependency-search/src/main/java/org/geekbang/thinking/in/spring/dependency/lookup/ObjectProviderDemo.java,1/4/1494ef524d4ae23fb26915865e6a020f53c28d16
